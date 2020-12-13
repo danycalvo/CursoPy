@@ -1,5 +1,5 @@
 import mysql.connector
-# comentario ampliado
+# comentario ampliado , ahora desde la book
 
 database = mysql.connector.connect(
     host = "localhost",
