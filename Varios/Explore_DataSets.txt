@@ -1,0 +1,7 @@
+python3 -m pip install vaex --upgrade
+
+https://www.youtube.com/watch?v=GnulANxtdcY&t=1384s
+
+https://vaex.readthedocs.io/en/latest/tutorial.html
+
+
