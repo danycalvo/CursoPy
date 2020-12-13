@@ -1,5 +1,5 @@
 import mysql.connector
-
+# comentario
 
 database = mysql.connector.connect(
     host = "localhost",
