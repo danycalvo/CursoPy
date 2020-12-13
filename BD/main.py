@@ -1,7 +1,11 @@
 import mysql.connector
+<<<<<<< HEAD
 # comentario ampliado , ahora desde la book
 # otra linea
 # nueva linea
+=======
+# comentario ampliado
+>>>>>>> parent of a14d56a (desde book)
 
 database = mysql.connector.connect(
     host = "localhost",
